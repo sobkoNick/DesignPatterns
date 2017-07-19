@@ -1,0 +1,40 @@
+2017-07-18 15:02:43,040  INFO Main:11 - main method started
+2017-07-18 21:02:34,370  INFO Main:12 - main method started
+2017-07-18 21:02:34,370  INFO Main:16 - Droideka shoot from 4 blasterGuns
+2017-07-18 21:03:07,556  INFO Main:12 - main method started
+2017-07-18 21:03:07,556  INFO Main:16 - Droideka shoot from 4 blasterGuns
+2017-07-18 21:03:07,556  INFO Main:19 - Droideka shoot from 4 blasterGuns
+2017-07-18 21:03:50,747  INFO Main:12 - main method started
+2017-07-18 21:03:50,747  INFO Main:16 - Droideka shoot from 4 blasterGuns
+2017-07-18 21:03:50,762  INFO Main:19 - B1 shoot from blasterGuns
+2017-07-18 21:03:50,762  INFO Main:22 - BattleDroid shoot from RocketGun
+2017-07-18 21:05:50,040  INFO Main:12 - main method started
+2017-07-18 21:05:50,056  INFO Main:16 - Droideka shoot from 4 blasterGuns
+2017-07-18 21:05:50,057  INFO Main:19 - B1 shoot from blasterGuns
+2017-07-18 21:05:50,058  INFO Main:22 - BattleDroid shoot from RocketGun
+2017-07-18 21:05:50,059  INFO Main:26 - Mechanic droid fixes
+2017-07-18 21:05:50,060  INFO Main:29 - Energy droid recharges other droids
+2017-07-18 21:09:46,715  INFO com.epam.lab.patterns.abstractFactory.Main:12 - main method started
+2017-07-18 21:09:46,718  INFO com.epam.lab.patterns.abstractFactory.Main:16 - Droideka shoot from 4 blasterGuns
+2017-07-18 21:09:46,718  INFO com.epam.lab.patterns.abstractFactory.Main:19 - B1 shoot from blasterGuns
+2017-07-18 21:09:46,718  INFO com.epam.lab.patterns.abstractFactory.Main:22 - BattleDroid shoot from RocketGun
+2017-07-18 21:09:46,718  INFO com.epam.lab.patterns.abstractFactory.Main:26 - Mechanic droid fixes
+2017-07-18 21:09:46,718  INFO com.epam.lab.patterns.abstractFactory.Main:29 - Energy droid recharges other droids
+2017-07-18 21:11:09,516  INFO com.epam.lab.patterns.abstractFactory.Main:12 - main method started
+2017-07-18 21:11:09,516  INFO com.epam.lab.patterns.abstractFactory.Main:16 - Droideka shoot from 4 blasterGuns
+2017-07-18 21:11:09,516  INFO com.epam.lab.patterns.abstractFactory.Main:19 - B1 shoot from blasterGuns
+2017-07-18 21:11:09,516  INFO com.epam.lab.patterns.abstractFactory.Main:22 - BattleDroid shoot from RocketGun
+2017-07-18 21:11:09,532  INFO com.epam.lab.patterns.abstractFactory.Main:26 - Mechanic droid fixes
+2017-07-18 21:11:09,532  INFO com.epam.lab.patterns.abstractFactory.Main:29 - Energy droid recharges other droids
+2017-07-18 21:11:22,095  INFO com.epam.lab.patterns.abstractFactory.Main:12 - main method started
+2017-07-18 21:11:22,095  INFO com.epam.lab.patterns.abstractFactory.Main:16 - Droideka shoot from 4 blasterGuns
+2017-07-18 21:11:22,095  INFO com.epam.lab.patterns.abstractFactory.Main:19 - B1 shoot from blasterGuns
+2017-07-18 21:11:22,095  INFO com.epam.lab.patterns.abstractFactory.Main:22 - BattleDroid shoot from RocketGun
+2017-07-18 21:11:22,095  INFO com.epam.lab.patterns.abstractFactory.Main:26 - Mechanic droid fixes
+2017-07-18 21:11:22,095  INFO com.epam.lab.patterns.abstractFactory.Main:29 - Energy droid recharges other droids
+2017-07-18 21:12:29,856  INFO com.epam.lab.patterns.abstractFactory.Main:12 - main method started
+2017-07-18 21:12:29,868  INFO com.epam.lab.patterns.abstractFactory.Main:16 - Droideka shoot from 4 blasterGuns
+2017-07-18 21:12:29,869  INFO com.epam.lab.patterns.abstractFactory.Main:19 - B1 shoot from blasterGuns
+2017-07-18 21:12:29,870  INFO com.epam.lab.patterns.abstractFactory.Main:22 - BattleDroid shoot from RocketGun
+2017-07-18 21:12:29,872  INFO com.epam.lab.patterns.abstractFactory.Main:26 - Mechanic droid fixes
+2017-07-18 21:12:29,873  INFO com.epam.lab.patterns.abstractFactory.Main:29 - Energy droid recharges other droids
