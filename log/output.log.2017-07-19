@@ -1,0 +1,39 @@
+2017-07-19 18:43:30,726  INFO com.epam.lab.patterns.abstractFactory.Main:12 - main method started
+2017-07-19 18:43:30,826  INFO com.epam.lab.patterns.abstractFactory.Main:16 - Droideka shoot from 4 blasterGuns
+2017-07-19 18:43:30,842  INFO com.epam.lab.patterns.abstractFactory.Main:19 - B1 shoot from blasterGuns
+2017-07-19 18:43:30,857  INFO com.epam.lab.patterns.abstractFactory.Main:22 - BattleDroid shoot from RocketGun
+2017-07-19 18:43:30,873  INFO com.epam.lab.patterns.abstractFactory.Main:26 - Mechanic droid fixes
+2017-07-19 18:43:30,873  INFO com.epam.lab.patterns.abstractFactory.Main:29 - Energy droid recharges other droids
+2017-07-19 19:46:05,875  INFO com.epam.lab.patterns.abstractFactory.Main:12 - main method started
+2017-07-19 19:46:05,891  INFO com.epam.lab.patterns.abstractFactory.Main:16 - Droideka shoot from 4 blasterGuns
+2017-07-19 19:46:05,891  INFO com.epam.lab.patterns.abstractFactory.Main:19 - B1 shoot from blasterGuns
+2017-07-19 19:46:05,891  INFO com.epam.lab.patterns.abstractFactory.Main:22 - BattleDroid shoot from RocketGun
+2017-07-19 19:46:05,891  INFO com.epam.lab.patterns.abstractFactory.Main:26 - Mechanic droid fixes
+2017-07-19 19:46:05,891  INFO com.epam.lab.patterns.abstractFactory.Main:29 - Energy droid recharges other droids
+2017-07-19 19:51:50,928  INFO com.epam.lab.patterns.decorator.Main:15 - BattleDroid walks slowly.
+2017-07-19 19:51:50,928  INFO com.epam.lab.patterns.decorator.Main:16 - Droideka rolls fast Droid uses shield!
+2017-07-19 19:51:50,928  INFO com.epam.lab.patterns.decorator.Main:17 - BattleDroid walks slowly. Droid uses shield!
+2017-07-19 19:52:09,155  INFO com.epam.lab.patterns.decorator.Main:15 - BattleDroid walks slowly.
+2017-07-19 19:52:09,170  INFO com.epam.lab.patterns.decorator.Main:16 - Droideka rolls fast. Droid uses shield!
+2017-07-19 19:52:09,170  INFO com.epam.lab.patterns.decorator.Main:17 - BattleDroid walks slowly. Droid uses shield!
+2017-07-19 21:52:24,226  INFO com.epam.lab.patterns.prototype.Main:13 - Droid type: EnergyDroid
+2017-07-19 21:52:24,252  INFO com.epam.lab.patterns.prototype.Main:15 - Droid type : BB-8 Fix Droid
+2017-07-19 21:52:24,253  INFO com.epam.lab.patterns.prototype.Main:17 - Droid type : BB-8 Fix Droid
+2017-07-19 21:52:44,260  INFO com.epam.lab.patterns.prototype.Main:13 - Droid type: EnergyDroid
+2017-07-19 21:52:44,264  INFO com.epam.lab.patterns.prototype.Main:15 - Droid type : BB-8 Fix Droid
+2017-07-19 21:52:44,264  INFO com.epam.lab.patterns.prototype.Main:17 - Droid type : R2D2 Fix Droid
+2017-07-19 22:42:12,093  INFO com.epam.lab.patterns.chainOfResponsibility_Additional.InfoLogger:16 - Some info message
+2017-07-19 22:42:12,096  INFO com.epam.lab.patterns.chainOfResponsibility_Additional.InfoLogger:16 - Warning! Change smtg in your code
+2017-07-19 22:42:12,097  WARN com.epam.lab.patterns.chainOfResponsibility_Additional.WarnLogger:16 - Warning! Change smtg in your code
+2017-07-19 22:42:12,097  INFO com.epam.lab.patterns.chainOfResponsibility_Additional.InfoLogger:16 - ERROOOOORRRR!
+2017-07-19 22:42:12,100  WARN com.epam.lab.patterns.chainOfResponsibility_Additional.WarnLogger:16 - ERROOOOORRRR!
+2017-07-19 22:42:12,100 ERROR com.epam.lab.patterns.chainOfResponsibility_Additional.ErrorLogger:16 - ERROOOOORRRR!
+2017-07-19 22:44:32,008  INFO com.epam.lab.patterns.chainOfResponsibility_Additional.InfoLogger:16 - Some info message
+2017-07-19 22:44:32,012  WARN com.epam.lab.patterns.chainOfResponsibility_Additional.WarnLogger:16 - Warning! Change smtg in your code
+2017-07-19 22:44:32,013 ERROR com.epam.lab.patterns.chainOfResponsibility_Additional.ErrorLogger:16 - ERROOOOORRRR!
+2017-07-19 22:45:23,902  INFO com.epam.lab.patterns.chainOfResponsibility_Additional.InfoLogger:16 - Some info message
+2017-07-19 22:45:23,906  INFO com.epam.lab.patterns.chainOfResponsibility_Additional.InfoLogger:16 - Warning! Change smtg in your code
+2017-07-19 22:45:23,906  WARN com.epam.lab.patterns.chainOfResponsibility_Additional.WarnLogger:16 - Warning! Change smtg in your code
+2017-07-19 22:45:23,906  INFO com.epam.lab.patterns.chainOfResponsibility_Additional.InfoLogger:16 - ERROOOOORRRR!
+2017-07-19 22:45:23,909  WARN com.epam.lab.patterns.chainOfResponsibility_Additional.WarnLogger:16 - ERROOOOORRRR!
+2017-07-19 22:45:23,910 ERROR com.epam.lab.patterns.chainOfResponsibility_Additional.ErrorLogger:16 - ERROOOOORRRR!
